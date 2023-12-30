@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm x_digitalninja</h1>
-<h3 align="center">"Building Discord Bots and Web Sites</h3>
+<h3 align="center">Building Discord Bots</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-digitalninja&label=Profile%20views&color=0e75b6&style=flat" alt="x-digitalninja" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Discord Bots and Websites**
 
-- 📫 How to reach me **Discord (x_digitalninja)**
+- 📲 How to reach me **Discord (x_digitalninja)**
 
 - ⚡ Fun fact **You're a coding enthusiast who spends countless hours immersed in the world of programming, always eager to learn and create new digital wonders.**
 
