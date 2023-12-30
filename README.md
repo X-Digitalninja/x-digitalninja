@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x-digitalninja&label=Profile%20views&color=0e75b6&style=flat" alt="x-digitalninja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x-digitalninja" alt="x-digitalninja" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/x_digitalninja" target="blank"><img src="https://img.shields.io/twitter/follow/x_digitalninja?logo=twitter&style=for-the-badge" alt="x_digitalninja" /></a> </p>
 
 - 🔭 I’m currently working on **Cosmo**
@@ -26,8 +24,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xdigitalninja"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xdigitalninja" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=x-digitalninja&show_icons=true&locale=en&layout=compact" alt="x-digitalninja" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x-digitalninja&show_icons=true&locale=en" alt="x-digitalninja" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-digitalninja&" alt="x-digitalninja" /></p>
